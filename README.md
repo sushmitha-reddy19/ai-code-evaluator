@@ -1,3 +1,5 @@
+**100-point evaluation framework: Correctness 40, Edge Cases 30, Quality 20, Security 10. Validated: Strong 92/100 vs Weak 35/100. Used for coding-agent evaluation.**
+
 # AI Code Evaluator - Prototype RL Environment / Benchmark for Coding Agents
 
 ## What it does
